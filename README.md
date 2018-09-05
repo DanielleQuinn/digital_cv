@@ -1,4 +1,3 @@
-### **CIRRICULUM VITAE**  
 ### **DANIELLE QUINN**  
 *danielle.quinn@mun.ca*  
 
