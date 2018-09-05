@@ -1,5 +1,5 @@
-###**CIRRICULUM VITAE**  
-###**DANIELLE QUINN**  
+### **CIRRICULUM VITAE**  
+### **DANIELLE QUINN**  
 *danielle.quinn@mun.ca*  
 
 **EDUCATION**
@@ -168,4 +168,240 @@ June 2007 – August 2007
 2010	**D. Quinn** and M. Dadswell. Characteristics of wild and hatchery-released Atlantic salmon (*Salmo salar*) smolt migration in the Gaspereau River, Nova Scotia. BioFeedback, Acadia University, Wolfville, NS. 17 Feb 2010.  
 
 2009	**D. Quinn** and M. Dadswell. Using growth rings of striped bass (*Morone saxatilis*) scales to determine stock origin. Research Topics Symposium, Acadia University, Wolfville, NS, 31 Mar 2009. (Poster)  
+
+**GRANTS AND AWARDS**  
+
+2018 – CarpentryCon Travel Award  
+2017 – Natural Sciences and Engineering Research Council of Canada Scholarship ($63K grant)  
+2016 – Canadian Conference for Fisheries Research Clemens-Rigler Travel Award  
+2016 – ACENET Research Fellowship Award ($5K grant)  
+2013 – Science Atlantic Fisheries and Aquaculture Graduate Research Award  
+2012 – Environment Canada Science Horizons Youth Internship Program ($11.5K grant)  
+2012 – Freshwater Fisheries Research Cooperative (FFRC) ($9.2K grant)  
+2012 – FFRC ($5.4K grant)  
+2011 – Dr. J. Murray Beardsley Research Scholarship in Biology  
+2011 – FFRC ($1.5K grant)  
+2010 – Atlantic Society of Fish and Wildlife Biologists Donald G. Dodds Scholarship  
+
+**FIELD SKILLS**
+
+•	Tag application (dart, T-bar, PIT, elastomer) of fish species  
+•	Fish (freshwater and marine), coral, seagrass, and marine invertebrate identification  
+•	Handling and release techniques for freshwater and marine fish species, including striped bass, Atlantic sturgeon, Atlantic salmon, skates, and pelagic sharks  
+•	Tissue, scale, mucus, and blood collection from fish species  
+•	Designing, assembling, deploying, retrieving, and analyzing baited remote underwater camera systems (BRUVs)  
+•	Assembling, deploying, and fishing using long lines, gill nets, drum lines, seine nets, and small baited fish traps  
+•	Working in remote areas and extreme weather conditions  
+•	Working from and living on small and medium sized vessels in coastal waters  
+•	General vessel skills; boat safety, knots, throw lines, basic navigation  
+•	Snorkeling and free diving for the purpose of scientific data collection (i.e. seagrass, mangrove and coral monitoring surveys)  
+
+**COMPUTATIONAL SKILLS**
+
+•	R (data management, statistical, graphical, programming)  
+•	RShiny (interactive interface for graphical and statistical algorithms)  
+•	RMarkdown (dynamic document creation)  
+•	Git/GitHub (version control, file sharing)  
+•	Python (programming)  
+•	Unix Shell (programming)  
+•	Spreadsheets (e.g. Excel)  
+•	Presentation and Word processing software (e.g. PowerPoint, Word)  
+•	Databases (e.g. Access, SQLite) and front end database design  
+•	Newsletter, poster, and other visual aid processing software (e.g. Publisher)  
+
+**QUANTITATIVE SKILLS**
+
+•	Parametric and non-parametric statistics  
+•	Resampling and simulation methods  
+•	General linear models (GLMs)  
+•	General linear mixed effect models (GLMMs)  
+•	General additive (GAMs) and additive mixed models (GAMMs)  
+•	Zero inflated models  
+•	Occupancy models  
+•	Machine learning routines (Azure ML, Python scikit-learn)  
+•	Bayesian statistics  
+•	Integrated population models  
+
+**TEACHING EXPERIENCE**  
+
+2018	Instructor: “R at Sea: Introduction to R and Ecological Modelling in R”, Field School, Miami, FL, USA. (25 hour course)  
+
+2018	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R” Chicago Federal Reserve Bank, IL, USA. (16 hour workshop)  
+
+2018 Instructor: "Terranaut Club Junior Wildlife Conservation Program", Bon Portage Island, NS. (4 day overnight science camp)  
+
+2018 Instructor: "Terranaut Club Junior Marine Biologist Program", Windsor, NS. (2 day overnight science camp)  
+
+2018	Instructor: “The Carpentries Instructor Training”, SciPy, Austin, Texas (16 hour course)  
+
+2018	Instructor: “Next Steps in R Workshop”, CarpentryCon 2018, Dublin, Ireland. (3 hour workshop)  
+
+2018	Instructor: “Best Practices of Data Organization and Introduction to R/RStudio”, Acadia University, Wolfville, NS (8 hour workshop)  
+
+2018	Instructor: “The Carpentries Instructor Training”, Compute Canada (online). (16 hour course)  
+
+2018	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R” Memorial University, St. John’s, NL. (16 hour workshop)  
+
+2018	Instructor: “The Carpentries Instructor Training”, The Carpentries (online). (16 hour course)  
+
+2018	Instructor: “The Carpentries Instructor Training”, Boise State University & North Texas University (online). (16 hour course)  
+
+2018	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R” Acadia University, Wolfville, NS. (16 hour workshop)  
+
+2017	Instructor: “The Carpentries Instructor Training”, Smithsonian Institute & Weill Cornell Medical School (online). (16 hour course)  
+
+2017	Instructor: “R at Sea: Introduction to R and Ecological Modelling in R”, Field School, Miami, FL, USA. (25 hour course)  
+
+2017	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R” West Virginia University, WV, USA. (16 hour workshop)  
+
+2017	Workshop Organizer / Lecturer: “Introduction to R and RStudio” Memorial University, NL. (4 hour workshop)  
+
+2017	Workshop Helper: “Software Carpentry Workshop in Unix shell, Python, Git/GitHub, and Reproducible Research” Memorial University, NL. (12 hour workshop)  
+
+2016	Guest Lecturer: “Can you automate that?: An overview of applications of R and R-based extensions” Ocean Science Center Seminar Series, Memorial University, NL. (2 hour seminar)  
+
+2016	Workshop Organizer / Lecturer: “Data Wrangling, Visualization, and Modelling in R and RStudio” University of Maine, Orono, ME, USA (8 hour workshop)  
+
+2016	Guest Lecturer: “Introduction to R: What is it good for?” Field School, Miami, FL, USA. (1 hour class)  
+
+2016	Guest Lecturer: “Simulating Capture-Mark-Recapture Scenarios in the Inner Bay of Fundy” BIOL4113 Fish Biology and Fisheries, Acadia University, Wolfville, NS. (3 hour laboratory)  
+
+2015	Workshop Organizer / Lecturer: “Tagging Ambassador Training” Striped Bass Research Team, Wolfville, NS. (3 hour workshop)  
+
+2015	Workshop Organizer / Lecturer: “Resampling Algorithms and Sensitivity Analyses in R” R-Bar, Acadia University, Wolfville, NS. (1 hour workshop)  
+
+2015	Workshop Organizer / Lecturer: “Software Carpentry Workshop in Unix shell, R/R Studio, and Git/GitHub” Acadia University, Wolfville, NS. (16 hour workshop)  
+
+2015	Guest Lecturer: “Introduction to R: Data Manipulation, Visualization, and Statistical Analyses” BIOL5021 Research Methods in Biology, Acadia University, Wolfville, NS. (1 hour class)  
+
+2015	Workshop Organizer / Lecturer: “Modelling Biological and Ecological Data in R” Rhodes University, Grahamstown, South Africa. (30 hour course)  
+
+2014	Workshop Organizer / Lecturer: “Fish Tagging Programs: Why We Need You” Striped Bass Research Team and Clean Annapolis River Project. Nictaux Falls, NS. (2 hour workshop)  
+
+2014	Guest Lecturer: “Marine Conservation” BIOL2563 Marine Biology, Acadia University, Wolfville, NS. (1.5 hour class)  
+
+2014	Lecturer: “Intertidal Ecology” BIOL3013 Natural History and Field Biology, Acadia University, Bon Portage Island, NS. (3 day field course)  
+
+2014	Workshop Organizer / Lecturer: “Acadia Biology’s Fish Tagging Program: Why We Need You” Mi’kmaw Conservation Group, Millbrook, Indian Brook, Pictou Landing, Glooscap, and Annapolis Valley, NS, and Fort Folly, NB. (2 hour workshop / location)  
+
+2013	Guest Lecturer: “Challenges and Solutions in Fisheries Management” BIOL2563 Marine Biology, Acadia University, Wolfville, NS. (1.5 hour class)  
+
+2013	Workshop Organizer / Lecturer: “Real-World Tagging: How Do Tagging Programs Really Work?” Striped Bass Researh Team and Joggins Fossil Cliffs, Joggins, NS. (2 hour workshop)  
+
+2010 – 2012	Teaching Assistant: BIOL1103L Introduction to Biology Laboratory, Acadia University, Wolfville, NS.  
+
+**INVOLVEMENT IN STUDENT RESEARCH**  
+
+2016 – 2017	Supervisor / Project Manager, Emma Carmichael, BSc Honours Research. Population dynamics of two cryptic skate species in the Bay of Fundy and their social image among fishing community demographics. Biology Dept., Acadia University, Wolfville, NS.  
+
+2016	Thesis Defense Committee Member, Regan Maloney, BSc Honours Research. Evolutionary trends of the Carboniferous ostracod Velatomorpha altilis, Joggins Fossil Cliffs, UNESCO World Heritage Site. Biology Dept., Acadia University, Wolfville, NS.  
+
+2015 – 2016	Project Manager, Holly McCulloch, BSc Honours Research. Biodiversity trends in urban storm water ponds. Biology Dept., Acadia University, Wolfville, NS.  
+
+2015	Project Manager, Caroline Wood, Special Topics in Biology Research. Population characteristics of lady crab, Ovalipes ocellatus, in Minas Basin. Biology Dept., Acadia University, Wolfville, NS.  
+
+2014 – 2015	Project Manager, Laura Keays, BSc Honours Research. Population demographics of longfin squid, Loligo pealeii, in the Minas Basin, Bay of Fundy, Nova Scotia. Biology Dept., Acadia University, Wolfville, NS.  
+
+2013	Project Manager, Chelsea Hung, Special Topics in Biology Research. Age determination method for fish scales using image processing. Biology Dept., Acadia University, Wolfville, NS.  
+
+
+**PROFESSIONAL ASSOCIATIONS**  
+
+2018 – present American Fisheries Society (AFS) Equal Opportunities Section (Member)  
+2018 – present AFS Scientific Communication Section (Member)  
+2018 – present Terranaut Club (President, Board of Directors)  
+2017 –	present Women in Science and Engineering (WISE) Graduate Student Society (GSS) Memorial University (Executive At-Large)  
+2016 –	present Software Carpentry (Instructor, Instructor Trainer)  
+2016 – present WISE GSS Memorial University (Member)  
+2013 – present Atlantic Society of Fish and Wildlife Biologists (ASFWB) (Newsletter Editor)  
+2012 – present AFS Atlantic International Chapter (Member)  
+2012 – present AFS (Member)  
+2016 – 2017	Females in the Natural Sciences Canada (Board of Directors)  
+2015 – 2016	WISE Acadia University Chapter (Member)  
+2015 – 2016	Canadian Foundation of University Women Wolfville Chapter (Member)  
+2013 – 2016	Striped Bass Association (Member)  
+2011 – 2013	ASFWB (VP Student Affairs)  
+
+
+**CONTINUING EDUCATION**  
+
+
+2018	Promoting Fisheries Science via Social Media at #AFS148 (online) (1 hour webinar)  
+
+2018	Networking, Mentorship, and Sponsorship. Women in Science, Engineering, Technology, and Trades (WinSETT) Leadership Workshop Series, St. John’s, NL. (8 hour workshop)  
+
+2018	Teaching Dossiers: An Introduction to Documenting Teaching Activity and Effectiveness. Preparing a Teaching Dossier Series, St. John’s, NL (1 hour workshop)  
+
+2017	Creating Effective Online and Blended Courses. Stanford Online (online) (20 hour course)  
+
+2017	Software Carpentry Instructor Trainer Training (online) (45 hour course)  
+
+2016	Software Carpentry Instructor Training (online) (16 hour course)  
+
+2016	Bayesian Integrated Population Modelling, Laurel, MD, USA. (40 hour course)  
+
+2016	Tropical Marine Ecology, Field School, Miami, FL, USA. (50 hour course)  
+
+2016	Elasmobranch Research Field Skills, Field School, Miami, FL, USA. (70 hour course)  
+
+2011	Mixed Effect Modeling in R (Highland Statistics Ltd.), Halifax, NS. (40 hour course)  
+
+**VOLUNTEER EXPERIENCE**  
+
+2018	Networking Event Subcommittee Member, Women in Science and Engineering Memorial University Graduate Student Society, St. John’s, NL.  
+
+2018	Volunteer, WinSETT Leadership Workshop Series. St. John’s, NL.  
+
+2018	Organizing Committee / Social Media Manager, CarpentryCon 2018. University College Dublin, Dublin, Ireland.  
+
+2018	Mentor, The Carpentries Mentoring Program.  
+
+2018	Guest Speaker, Skype a Scientist. Meadowbrook Elementary School, Golden Valley, MN.  
+
+2018	Judge, Science Atlantic Fisheries and Aquaculture and Biology Conference. Memorial University, St. John’s, NL.  
+
+2017	Networking Event Subcommittee Member, Women in Science and Engineering Memorial University Graduate Student Society, St. John’s, NL.  
+
+2017	Judge, Science Atlantic Fisheries and Aquaculture and Biology Conference. St. Francis Xavier University, Antigonish, NS.  
+
+2017	Guest Speaker, Skype a Scientist. Fair Oaks Ranch Elementary School, San Antonio, TX.  
+
+2017	Organizing Committee, WISE Panel Discussion on Implicit Gender Bias in STEM. Memorial University, St. John’s, NL.  
+
+2017	Guest Speaker, Skype a Scientist. Cardinal Carter Catholic High School, Aurora, ON.  
+
+2016	Organizing Committee, WISE Girls Science Retreat. Acadia University, Wolfville, NS.  
+
+2016	Founder and Session Leader, R-Bar: The Scientific Programming Study Group. Memorial University of Newfoundland, St. John’s, NL.  
+
+2015 – 2017	Founder and Session Leader, R-Bar: The Scientific Programming Study Group. Acadia University, Wolfville, NS.  
+
+2015 – 2016	Guest Speaker, Sensory Motor Instructional Leadership Experience (SMILE) Science Day, Acadia University, Wolfville, NS.  
+
+2015	Session Leader, WISE Girls Science Camp. Mount Saint Vincent University, Halifax, NS.  
+
+2015	Session Leader, Windsor Elementary School visit the Biology Department Specimen Collections. Acadia University, Wolfville, NS.  
+
+2015	Session Leader, Wolfville Elementary School students visit the Biology Department. Acadia University, Wolfville, NS.  
+
+2014	Session Leader, Avon View High School field trip to Cheverie Salt Marsh for World Ocean’s Day. Cheverie, NS.  
+
+2014	Session Leader, “Fishing the Weir” presentation for various elementary school groups at the Hants County Exhibition. Windsor, NS.  
+
+2013 – 2015	R Tutor, undergraduate and graduate students. Acadia University, Wolfville, NS.  
+
+2012	Technical Support, BioFeedback for Honours student research presentation. Acadia University, Wolfville, NS.  
+
+2011	Data Collection, Swiftwatch. Wolfville, NS.  
+
+2009 – 2010	Volunteer, Atlantic salmon spawning. Coldbrook Biodiversity Facility, Coldbrook, NS.  
+
+2008	Data Collection, lobster tagging program. Minas Basin, NS.  
+
+
+
+
+
+
+
 
