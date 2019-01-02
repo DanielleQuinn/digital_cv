@@ -102,7 +102,7 @@ June 2007 – August 2007
 
 2009	**D. Quinn**. Alewife (*Alosa pseudoharengus*) migration in the Gaspereau River. DFO Technical Report. 1-13.  
 
-**PRESENTATIONS, POSTERS, AND WORKSHOPS**  
+**PRESENTATIONS AND POSTERS**  
 
 2018	**D. Quinn**, E. Chase, and T. S. Avery. Unsupervised and supervised machine learning to classify cryptic skate species from morphometric data. American Fisheries Society Annual General Meeting. Atlantic City, NJ. 18 – 23 August 2018.  
 
