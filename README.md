@@ -106,9 +106,11 @@ June 2007 – August 2007
 
 2018	**D. Quinn**, E. Chase, and T. S. Avery. Unsupervised and supervised machine learning to classify cryptic skate species from morphometric data. American Fisheries Society Annual General Meeting. Atlantic City, NJ. 18 – 23 August 2018.  
 
+2018	**D. Quinn**, C. MacDonald, J. Wester, and C. Pankow. R (or Python!) at Sea: a novel alternative to traditional coding courses. SciPy 2018. Austin, TX. 9 – 15 July 2018.  
+
 2018	**D. Quinn**, C. MacDonald, J. Wester, and C. Pankow. R at Sea: a Carpentry-inspired workshop for immersive learning on and under the water. CarpentryCon 2018. Dublin, Ireland. 30 May – 1 June 2018.  
 
- 2016	**D. Quinn**, and T. S. Avery. Ecoshift: investigating changes in ecological systems. 42nd Annual Meeting of the Atlantic International Chapter of the American Fisheries Society. Holderness, NH, USA. 11-13 Sep 2016.  
+2016	**D. Quinn**, and T. S. Avery. Ecoshift: investigating changes in ecological systems. 42nd Annual Meeting of the Atlantic International Chapter of the American Fisheries Society. Holderness, NH, USA. 11-13 Sep 2016.  
 
 2016	**D. Quinn**, J. Whidden, and T. S. Avery. Quantifying and interpreting evidence of school and site fidelity of little skate (*Leucoraja erinacea*) and winter skate (*Leocoraja ocellata*) in a spatially confined area in the Bay of Fundy, Canada. American Elasmobranch Society Joint Meeting of Ichthyologists and Herpetologists. New Orleans, LA, USA. 7-10 Jul 2016.  
 
@@ -223,9 +225,15 @@ June 2007 – August 2007
 
 **TEACHING EXPERIENCE**  
 
+2018	Instructor: “The Carpentries Instructor Training”, Compute Canada (online). (16 hour course) 
+
+2018	Workshop Instructor: “Software Carpentry Workshop in spreadsheet design, Open Refine, and R”, University of Fort Hare, Alice, South Africa. (16 hour workshop) 
+
+2018	Workshop Instructor: “Software Carpentry Workshop in spreadsheet design, Open Refine, and R”, Rhodes University, Grahamstown, South Africa. (16 hour workshop) 
+
 2018	Instructor: “R at Sea: Introduction to R and Ecological Modelling in R”, Field School, Miami, FL, USA. (25 hour course)  
 
-2018	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R” Chicago Federal Reserve Bank, IL, USA. (16 hour workshop)  
+2018	Workshop Organizer / Instructor: “Software Carpentry Workshop in Unix shell, Git, and R”, Chicago Federal Reserve Bank, IL, USA. (16 hour workshop)  
 
 2018 Instructor: "Terranaut Club Junior Wildlife Conservation Program", Bon Portage Island, NS. (4 day overnight science camp)  
 
@@ -324,7 +332,6 @@ June 2007 – August 2007
 
 **CONTINUING EDUCATION**  
 
-
 2018	Promoting Fisheries Science via Social Media at #AFS148 (online) (1 hour webinar)  
 
 2018	Networking, Mentorship, and Sponsorship. Women in Science, Engineering, Technology, and Trades (WinSETT) Leadership Workshop Series, St. John’s, NL. (8 hour workshop)  
@@ -345,7 +352,14 @@ June 2007 – August 2007
 
 2011	Mixed Effect Modeling in R (Highland Statistics Ltd.), Halifax, NS. (40 hour course)  
 
+
 **VOLUNTEER EXPERIENCE**  
+
+2018	Guest Speaker. Holy Heart High School, St. John's, NL.  
+
+2018	Guest Speaker, Skype a Scientist. Hardin County Schools Early College and Career Center, Elizabethtown, KY.
+
+2018	Guest Speaker, Skype a Scientist. Siegel Elementary School, Mursfreeboro, TN.  
 
 2018	Networking Event Subcommittee Member, Women in Science and Engineering Memorial University Graduate Student Society, St. John’s, NL.  
 
@@ -356,6 +370,8 @@ June 2007 – August 2007
 2018	Mentor, The Carpentries Mentoring Program.  
 
 2018	Guest Speaker, Skype a Scientist. Meadowbrook Elementary School, Golden Valley, MN.  
+
+2018	Guest Speaker, Skype a Scientist. John Muir Elementary School, Kirkland, WA.  
 
 2018	Judge, Science Atlantic Fisheries and Aquaculture and Biology Conference. Memorial University, St. John’s, NL.  
 
