@@ -104,6 +104,8 @@ June 2007 – August 2007
 
 **PRESENTATIONS AND POSTERS**  
 
+2018  **D. Quinn**. Spreading the R love: lessons learned in teaching and sharing computational skills. RLadies Cape Town, Cape Town, South Africa, 15 November 2018.
+
 2018	**D. Quinn**, E. Chase, and T. S. Avery. Unsupervised and supervised machine learning to classify cryptic skate species from morphometric data. American Fisheries Society Annual General Meeting. Atlantic City, NJ. 18 – 23 August 2018.  
 
 2018	**D. Quinn**, C. MacDonald, J. Wester, and C. Pankow. R (or Python!) at Sea: a novel alternative to traditional coding courses. SciPy 2018. Austin, TX. 9 – 15 July 2018.  
