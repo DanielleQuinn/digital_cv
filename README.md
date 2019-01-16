@@ -80,11 +80,13 @@ April 2009 – July 2009, April 2010 – August 2010
 KC Irving Science Center & Roosevelt Campobello International Park, Campobello Island, NB  
 June 2007 – August 2007  
 
-**REFEREED AND NON-REFEREED CONTRIBUTIONS**  
+**PEER REVIEWED PUBLICATIONS**  
 
 *2016*  
 
 C. Tocco, **D. Quinn**, J. Midgley, and M. Villet. Optimising design and effort for environmental surveys using dung beetles (Coleoptera: Scarabaeinae). The Canadian Entomologist 149(2): 214-226 DOI 10.4039/tce.2016.48  
+
+**OTHER PUBLICATIONS**  
 
 *2015*  
 
@@ -113,6 +115,13 @@ Stevens, L., **D. Quinn**, & T. S. Avery. Long term monitoring protocols and ana
 **D. Quinn**. Characteristics of Atlantic salmon (*Salmo salar*) smolt emigration on the Gaspereau River (2007-2009). DFO Technical Report. 1-25.  
 
 **D. Quinn**. Alewife (*Alosa pseudoharengus*) migration in the Gaspereau River. DFO Technical Report. 1-13.  
+
+
+**BOOK REVIEWS**  
+
+*2019*  
+
+Guide to the manta & devil rays of the world, by Guy Stevens et al. Princeton, 2018. 144p index ISBN 9780691183329. Choice Magazine February 2019.  
 
 **PRESENTATIONS AND POSTERS**  
 
