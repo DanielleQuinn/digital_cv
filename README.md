@@ -1,5 +1,5 @@
 ### **DANIELLE QUINN**  
-*danielle.quinn@mun.ca*  
+*danielle  .  quinn  @  mun  .  ca*  
 
 **EDUCATION**
 
@@ -15,6 +15,13 @@ BScH (Biology), Acadia University, Wolfville, Nova Scotia, Canada
 September 2005 – May 2010  
 
 **WORK AND RESEARCH EXPERIENCE**
+
+*Course Designer / Instructor*  
+Emeritus Institute of Management  
+Berkeley Extension Introduction to Data Science  
+Berkeley Extension Practical Machine Learning in R  
+February 2019 - present
+
 
 *Biologist (BI-02, Casual)*  
 Department of Fisheries and Oceans, Dartmouth, NS  
@@ -82,6 +89,11 @@ June 2007 – August 2007
 
 **PEER REVIEWED PUBLICATIONS**  
 
+*2019*  
+O. Cereceda, and **D. Quinn**. A graduate student perspective on overcoming barriers to interacting with open-source software. Facets. (*submitted May 2019*)  
+
+**D. Quinn**. Who's talking? Gender discrepancy in conservation at AFS148. Fisheries. (*accepted March 2019*) DOI: 10.1002/fsh.10253  
+
 *2016*  
 
 C. Tocco, **D. Quinn**, J. Midgley, and M. Villet. Optimising design and effort for environmental surveys using dung beetles (Coleoptera: Scarabaeinae). The Canadian Entomologist 149(2): 214-226 DOI 10.4039/tce.2016.48  
@@ -125,7 +137,17 @@ Guide to the manta & devil rays of the world, by Guy Stevens et al. Princeton, 2
 
 **PRESENTATIONS AND POSTERS**  
 
+*2019*  
+
+O. Cereceda and **D. Quinn**. Graduate students: between an open source rock and an academic hard spot. Memorial University Teaching and Learning Conference. St. John’s, NL. 1-2 May 2019.  
+
+**D. Quinn**. The complexity of species complexes: supervised machine learning to facilitate cryptic skate classification and observer training in real time. Biology Graduate Student Symposium. St. John’s, NL. 8 Apr 2019.  
+
+**D. Quinn**. Interactive web apps with RShiny. NDev 34 & RBar. St. John’s, NL. 27 Mar 2019.  
+
 *2018*  
+
+**D. Quinn** and O. Cereceda. Graduate students: between an open source rock and an academic hard spot. Canadian Celebration of Women in Computing 2018. Halifax, NS. 2-3 Nov 2019.  
 
 **D. Quinn**. Spreading the R love: lessons learned in teaching and sharing computational skills. RLadies Cape Town, Cape Town, South Africa, 15 November 2018.
 
@@ -276,6 +298,14 @@ Atlantic Society of Fish and Wildlife Biologists Donald G. Dodds Scholarship
 •	Integrated population models  
 
 **TEACHING EXPERIENCE**  
+
+*2019*  
+
+Workshop Helper: "SURGE Discover Coding", SURGE Science Innovation Sandbox, Halifax, NS. (8 hour workshop)  
+
+Workshop Instructor: "Introduction to R", Ocean Tracking Network, Halifax, NS. (8 hour workshop)  
+
+Workshop Organizer / Instructor: "Coding 101", Women in Science and Engineering MUN Graduate Student Society, St. John's, NL. (16 hour workshop)  
 
 *2018*  
 
