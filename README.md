@@ -233,6 +233,11 @@ Workshop Participant: Variability of North Atlantic Diadromous Fish Populations:
 
 **GRANTS AND AWARDS**  
 
+*2019*  
+Science Communication Award, Biology Graduate Student Symposium  
+
+Best PhD Presentation in Ecology and Evolution, Biology Graduate Student Symposium  
+
 *2018*  
 CarpentryCon Travel Award  
 
